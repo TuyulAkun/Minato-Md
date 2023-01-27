@@ -136,5 +136,6 @@ ${readmore}
 │ • Gabriel / Guntur
 │ • Amirul Dev
 │ • riycoders
+   .Fikiofc
 ╰○`
 }
